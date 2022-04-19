@@ -1,0 +1,56 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  background-color: #e2eaff;
+}
+
+#card {
+  max-width: 300px;
+  margin: 0 auto;
+  margin-top: 20vh;
+  background-color: white;
+  border: 1px solid white;
+  padding: 1px;
+  border-radius: 12px;
+}
+
+#title {
+  color: #1f2e55;
+}
+
+img {
+  width: 100%;
+  object-fit: fill;
+}
+
+#title {
+  background-color: white;
+  text-align: center;
+}
+
+#para {
+  color: #717fa6;
+  background-color: white;
+  text-align: center;
+  font-size: 16px;
+}
+
+#section {
+  background-color: #717fa6;
+}
+
+#buttons {
+  background-color: white;
+}
+
+#payment {
+  background-color: #382ae1;
+  color: white;
+  border-radius: 5px;
+}
+
+#cancel {
+  background-color: white;
+  color: black;
+  border-radius: 5px;
+}
